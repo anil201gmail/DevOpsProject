@@ -6,7 +6,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(2.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(3.jpg);
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -25,7 +25,7 @@
 }
 
 .logo{
-    color: #ff7200;
+    color: #ff0095;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -62,7 +62,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: #ff7200;
+    color: #ff00d4;
 }
 
 .search{
@@ -76,7 +76,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid #ff7200;
+    border: 1px solid #ff009d;
     margin-top: 13px;
     color: #fff;
     border-right: none;
@@ -90,8 +90,8 @@ ul li a:hover{
 .btn{
     width: 100px;
     height: 40px;
-    background: #ff7200;
-    border: 2px solid #ff7200;
+    background: #ff00aa;
+    border: 2px solid #7700ff;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -134,7 +134,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #ff7200;
+    background: #00ff55;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -156,7 +156,7 @@ ul li a:hover{
 }
 
 .content span{
-    color: #ff7200;
+    color: #ff00b3;
     font-size: 65px
 }
 
@@ -176,7 +176,7 @@ ul li a:hover{
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: #ff7200;
+    color: #ff00d4;
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -188,7 +188,7 @@ ul li a:hover{
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid #ff7200;
+    border-bottom: 1px solid #ff00aa;
     border-top: none;
     border-right: none;
     border-left: none;
@@ -211,7 +211,7 @@ ul li a:hover{
 .btnn{
     width: 240px;
     height: 40px;
-    background: #ff7200;
+    background: #2f00ff;
     border: none;
     margin-top: 30px;
     font-size: 18px;
@@ -223,7 +223,7 @@ ul li a:hover{
 
 .btnn:hover{
     background: #fff;
-    color: #ff7200;
+    color: #ff00bf;
 }
 
 .btnn a{
@@ -240,7 +240,7 @@ ul li a:hover{
 
 .form .link a{
     text-decoration: none;
-    color: #ff7200;
+    color: #ff00aa;
 }
 
 .liw{
@@ -264,5 +264,5 @@ ul li a:hover{
 }
 
 .icons ion-icon:hover{
-    color: #ff7200;
+    color: #ff009d;
 }
